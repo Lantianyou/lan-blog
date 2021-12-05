@@ -4,9 +4,6 @@ cover:
   image: 'skyscraper.jpg'
   description: ''
 date: '2020-07-09'
-author:
-  name: '兰天游'    
-  picture: ''
 excerpt: 尽管有诸多先前预警，西方文明的每个机构都对新冠肺炎大流行病毫无防备。这样体制效率的重大挫败将在这个十年被常常提起，但是现在来问为什么，和我们需要为此做些什么还不迟。
 ---
 

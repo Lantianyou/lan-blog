@@ -4,9 +4,6 @@ cover:
   image: 'stock.jpg'
   description: ''
 date: '2020-07-18'
-author:
-  name: '兰天游'    
-  picture: 'profile.jpg'
 excerpt: 长期停滞（secular stagnation）在某种程度已经发生
 ---
 

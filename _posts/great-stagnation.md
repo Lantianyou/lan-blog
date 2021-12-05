@@ -4,9 +4,6 @@ title: 彼得.蒂尔谈大停滞
   # image: "spacex.jpg"
   # description: "超音速飞机"
 date: "2020-07-24"
-# author:
-  # name: "兰天游"
-  # picture: "profile.jpg"
 excerpt: 主线叙事/教育/政治/哲学
 ---
 
